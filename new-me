@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <title>homepage</title>
+  </head>
+  <body>
+
+     <div class="container">
+        <div class="jumbotron">
+      <strong>HOMEPAGE</strong>
+    </div>
+      </div>
+    <h1>JOHN KAMAU WANJIKU</h1>
+    <h2>ABOUT ME</h2>
+    <ul>
+      <li><p>My name is John Kamau Wanjiku,am a student at Moringa School learning how to code and i love programming.</p></li>
+      <li><p>Am a rugby player.</P></li>
+    <h3>BACKGROUND</h3>
+      <li><p>I know how to code in C++ and C#.</p></li>
+      <li><P>I have also worked before with a survey company know us Voices Africa.</p></li>
+      <li><p> also represented Kenya rugby sevens under 16.</p></li>
+    <h4>HOBBIES</h4>
+    <li><p>I am an experienced rugby player in both sevens and fifteens.My position is in the backs(winger).</p></li>
+  <li><p> I love watching movies and series.</p></li>
+  </ul>
+    <p>Check out <a href="">my projects</a>. It's a great place to learn web development skills!</p>
+
+ </p>
+  </body>
+</html>
